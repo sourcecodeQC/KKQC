@@ -1,9 +1,3 @@
-#include <iostream>
-#include <string>
- 
-using namespace std;
-
- 
 int main()
 {
 -   cout << "👋 Hi, I’m @KKQC" << endl;
@@ -11,10 +5,9 @@ int main()
 -   cout << "🌱 I’m currently learning C++" << endl;
 -   cout << "💞️ I’m looking to collaborate on n/a" << endl;
 -   cout << "📫 How to reach me: " << endl;
-- 
--   cout << "   email: kkqc@kkqc.eu" << endl;
--   cout << "   steam: http://steamcommunity.com/id/kkqc";
-- 
+-   - cout << "   email: kkqc@kkqc.eu" << endl;
+-   - cout << "   steam: http://steamcommunity.com/id/kkqc";
+
 -   return 0;
 - }
 
